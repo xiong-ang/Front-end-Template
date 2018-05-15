@@ -30,6 +30,10 @@ module.exports = {
                 exclude: /node_modules/
             },
             {
+                test: /\.html$/,
+                loader: "html-loader"
+            },
+            {
                 test: /\.css$/,
                 //css-loader Process url; style-loader insert css to style
                 use: ExtractTextPlugin.extract({

@@ -10,3 +10,4 @@
 + htmlhint分析html的style          
 
 ## 有待持续改进中！！
+2018.5.15 增加html-loader

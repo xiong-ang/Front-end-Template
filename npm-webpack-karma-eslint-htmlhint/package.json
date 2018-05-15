@@ -1,5 +1,5 @@
 {
-  "name":"front-end-template",
+  "name": "front-end-template",
   "scripts": {
     "prerestart": "npm install",
     "pretest": "npm install",
@@ -15,6 +15,7 @@
     "css-loader": "^0.28.11",
     "eslint": "^4.19.1",
     "extract-text-webpack-plugin": "^3.0.2",
+    "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
     "htmlhint": "^0.9.13",
     "jasmine-core": "^3.1.0",
